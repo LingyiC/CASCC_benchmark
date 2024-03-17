@@ -1,3 +1,5 @@
+remotes::install_version("Seurat", "4.3.0")
+
 rm(list = ls()); gc()
 
 for (seed.index in "default") {
